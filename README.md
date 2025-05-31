@@ -15,7 +15,7 @@ Basta inserir na barra pesquisa a cidade de sua escolha e clicar em buscar.
 
 Clone o repositório
 ```bash
-https://github.com/leandrovelosos/previsaodotempo
+https://github.com/eduardo2silva/previsaodotempo
 ```
 Instale as dependencias
 ```bash
